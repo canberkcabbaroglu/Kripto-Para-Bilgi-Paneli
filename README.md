@@ -1,5 +1,24 @@
-## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
+## Kripto Para Bilgi Paneli (React JS) 
+Kripto Para Bilgi Paneli ile kripto para birimlerini anlık olarak takip edebilirisiniz.Bu sayfadaki veriler [Coingecko](https://www.coingecko.com/tr) tarafından temin edilmektedir.
 
+
+![1](https://user-images.githubusercontent.com/74494292/131251316-d692faf2-913c-4565-989f-f9d434cb9a61.PNG)
+
+##
+![2](https://user-images.githubusercontent.com/74494292/131251324-8524bf47-7564-4b5f-baf5-56fcdd4100d8.PNG)
+
+##
+![3](https://user-images.githubusercontent.com/74494292/131251330-6dd29846-4133-484e-b9fa-3f8cd2f0f2fe.PNG)
+
+
+
+
+
+
+
+
+
+## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > Free React Admin Dashboard made with Material-UI components and React.
