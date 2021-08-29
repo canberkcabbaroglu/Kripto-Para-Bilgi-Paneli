@@ -1,0 +1,63 @@
+.coin-text {
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.list-container {
+  display: flex;
+  justify-content: center;
+}
+
+.list-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;;
+  align-items: center;
+  height: 80px;
+  border-bottom: 1px solid #d7d7d7;
+  width: 900px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+  min-width: 250px;
+}
+
+.list h1 {
+  font-size: 16px;
+  width: 150px;
+}
+
+.list img {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.list-data {
+  display: flex;
+  text-align: right;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.list-country {
+  width: 110px;
+}
+
+.list-url {
+  align-items: center;
+  width: 110px;
+}
+
+.list-price {
+  width: 80px;
+}
+
+.list-year {
+  width: 140px;
+  
+}
+
